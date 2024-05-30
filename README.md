@@ -15,5 +15,5 @@
 ```bash
 git clone https://github.com/iuroc/spring-boot-and-mybatis.git
 cd spring-boot-and-mybatis
-mvn spring-boot:runm
+mvn spring-boot:run
 ```
